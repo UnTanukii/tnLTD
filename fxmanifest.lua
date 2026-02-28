@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-author "Tanukii"
-description "dsc.gg/rfsstore"
+author "untanukii"
+description "dsc.gg/untanukii"
 
 client_scripts {
     "RageUI/RMenu.lua",
